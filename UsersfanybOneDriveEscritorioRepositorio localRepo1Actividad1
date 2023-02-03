@@ -1,0 +1,49 @@
+[33mcommit 9a535cfa525b42d97c170772281f70429df65d87[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: vanesa.lido <vanesa.lido@gmail.com>
+Date:   Fri Feb 3 16:34:47 2023 +0100
+
+    añado los 3 hobbies en mi documento java.
+
+[33mcommit 28738a045dfcf001463659362b56f91a5fa2b20c[m
+Merge: 1b5f2cd bac2e15
+Author: estefania.ballesteros <fanybt2010.ebt@gmail.com>
+Date:   Fri Feb 3 10:51:41 2023 +0100
+
+    Merge branch 'develop'
+
+[33mcommit 1b5f2cd82219789b1b2f9f7598b77e8b913dd4d2[m
+Merge: e86759a 946d3cc
+Author: vanesa.lido <vanesa.lido@gmail.com>
+Date:   Fri Feb 3 09:52:27 2023 +0100
+
+    "Fusion de mi develop con la rama master"
+
+[33mcommit 946d3cc409beee847b761b7df67acb6e41c789ce[m
+Author: vanesa.lido <vanesa.lido@gmail.com>
+Date:   Fri Feb 3 09:23:38 2023 +0100
+
+    creada nueva clase Vanesa en la rama develop
+
+[33mcommit bac2e157fdbc170ed692bf5149fa8e5d893d726f[m
+Author: estefania.ballesteros <fanybt2010.ebt@gmail.com>
+Date:   Thu Feb 2 18:12:17 2023 +0100
+
+    clase Estefania
+
+[33mcommit e86759ac476d08ccbe49db0867dc029a70060184[m
+Author: A.Sanchez <bereberto25@gmail.com>
+Date:   Thu Feb 2 18:08:14 2023 +0100
+
+    Package Alberto, con clase Alberto_JAVA y metodo presentacion
+
+[33mcommit cc5dd3437fa95c1a6087ec26c64b293fc25ea8f0[m
+Author: A.Sanchez <bereberto25@gmail.com>
+Date:   Thu Feb 2 15:54:41 2023 +0100
+
+    prueba1, (funciona compis :))
+
+[33mcommit de2358841f02ee37497238b79dcf30c324d54f2e[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: vanesa.lido <vanesa.lido@gmail.com>
+Date:   Thu Feb 2 15:25:10 2023 +0100
+
+    Primer repositorio
