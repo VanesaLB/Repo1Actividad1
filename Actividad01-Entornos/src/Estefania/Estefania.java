@@ -10,5 +10,8 @@ public class Estefania {
 	public void mostrarHobbies () {
 		System.out.println("Mis hobbies son leer , bailar , deporte ");
 	}
+	public void mostrarComida () {
+		System.out.println("Mis comidas favoritas son sushi , tortilla de patatas , cocido ");
+	}
 }
 
