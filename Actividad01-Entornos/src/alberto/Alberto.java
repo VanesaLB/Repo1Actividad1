@@ -5,6 +5,7 @@ public class Alberto {
 	    Alberto alberto = new Alberto();
 	    alberto.presentacion();
 	    alberto.mostrarHobbies();
+	    alberto.misComidasFavoritas();
 	  }
 
 	public void presentacion() {
@@ -18,6 +19,11 @@ public class Alberto {
 		    System.out.println("Hacer deporte");
 		  }
 	
+	 public void misComidasFavoritas () {
+			System.out.println("Mis 3 comidas favoritas son :  estofado de alubias, pasta(en general), arroz campero ");
+
+			}
+	 
 		}
 	
 	   
