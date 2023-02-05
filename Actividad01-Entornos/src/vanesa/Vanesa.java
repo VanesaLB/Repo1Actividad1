@@ -11,11 +11,10 @@ public class Vanesa {
 	public void comidasFavoritas () {
 		System.out.println("Mis 3 comidas favoritas son la fideuá, hamburguesa y el arroz al horno.");
 	}
-	int edad = 25;
-	if (edad >= 18)
-		System.out.println("eres mayor");
-
-	System.out.println("fin de programa");
+	// hago cambios en el proyecto de vanesa //
+	public void viajes () {
+		System.out.println("Alemania , EEUU, Brasil");
+	}
 
 
 }
