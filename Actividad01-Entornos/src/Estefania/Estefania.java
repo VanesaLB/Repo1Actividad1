@@ -10,12 +10,8 @@ public class Estefania {
 	public void mostrarHobbies () {
 		System.out.println("Mis hobbies son leer , bailar , deporte ");
 	}
-	public void mostrarCiudades() {
-		System.out.println("Madrid, Valencia, Almería");
-	}
-	/*
-	 * Me he cargado tus comidas favoritas. public void mostrarComida () {
+	public void mostrarComida () {
 	System.out.println("Mis comidas favoritas son sushi , tortilla de patatas , cocido ");
-	}*/
+	}
 }
 
