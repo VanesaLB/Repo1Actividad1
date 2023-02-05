@@ -6,7 +6,9 @@ public class Alberto {
 	    alberto.presentacion();
 	    alberto.mostrarHobbies();
 	    alberto.misComidasFavoritas();
+	    alberto.pruebaFuncionamiento();
 	  }
+
 
 	public void presentacion() {
 	    System.out.println("Hola, soy Alberto");
@@ -24,6 +26,11 @@ public class Alberto {
 			//System.out.println("Las comidas favoritas de Alberto son: cerdo estofado, natillas y helado de chocolate");
 
 			}
+
+		private void pruebaFuncionamiento() {
+			System.out.println("Funciona correctamente de nuevo");
+			
+		}
 	 
 		}
 	
