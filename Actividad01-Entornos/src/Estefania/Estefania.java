@@ -12,11 +12,13 @@ public class Estefania {
 	}
 	public void mostrarComida () {
 	System.out.println("Mis comidas favoritas son sushi , tortilla de patatas , cocido ");
+
 	}
-	// hago cambios en mi proyecto antes de hacer el merge "
-	public void mostrarHijas () {
-		System.out.println("Olivia y Estefania");
-		}
-	
+	// hago cambios sin hacer el merge //
+	public void mostrarPerro() {
+		System.out.println("Thor");
+		
+	}
+
 }
 
