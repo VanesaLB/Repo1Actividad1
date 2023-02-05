@@ -21,6 +21,7 @@ public class Alberto {
 	
 	 public void misComidasFavoritas () {
 			System.out.println("Mis 3 comidas favoritas son :  estofado de alubias, pasta(en general), arroz campero ");
+			System.out.println("Las comidas favoritas de Alberto son: cerdo estofado, natillas y helado de chocolate");
 
 			}
 	 
